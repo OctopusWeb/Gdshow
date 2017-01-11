@@ -1,0 +1,60 @@
+*{margin: 0;padding: 0;list-style: none;font-family: "微软雅黑";}
+body,html{height: 100%;width: 100%;position: relative;overflow: hidden;}
+#wrap{width: 2000%;height: 100%;background: #071329;}
+#wrap .page{width: 100%;height: 100%;float: left;}
+#wrap .page0 .part0_0{width: 100%;color: #fff;position: absolute;z-index: 100;top: -500px;}
+#wrap .page0 .part0_0 img{width: 40%;left: 30%;position: absolute;top: 120px;}
+#wrap .page0 .part0_1{width: 100%;position: absolute;bottom: -10px;opacity: 0;}
+#wrap .page0 .part0_1 img{width: 100%;position: absolute;bottom: 0;}
+#wrap .page0 .part0_2{width: 100%;position: absolute;right: -500px;}
+#wrap .page0 .part0_2 img{position: absolute;right: 200px;top: 200px;}
+#wrap .page0 .part0_3{width: 100%;position: absolute;bottom: -1000px;z-index: 100;}
+#wrap .page0 .part0_3 img{width: 100%;position: absolute;bottom: 0;}
+#wrap .page0 .star{position: absolute;width: 200px;}
+#wrap .page0 .part0_4{left: 400px;top: -200px;opacity: 0;}
+#wrap .page0 .part0_5{left: 1600px;top: 0px;opacity: 0;}
+#wrap .page0 .star img{width: 100%;height: 100%;}
+
+#wrap .page1 .part1_0{position: absolute;top: -300px;height: 280px;}
+#wrap .page1 .part1_0 img{height: 280px;left: 0%;float: left;}
+#wrap .page1 .part1_1{width: 100%;position: absolute;top: 100px;opacity: 0;}
+#wrap .page1 .part1_1 img{position: absolute;left:-30%}
+#wrap .page1 .part1_2{width: 90%;position: absolute;left: -100%;top: 100px;}
+#wrap .page1 .part1_2 h1{color: #ff2b6d;font-size: 40px;width: 100%;text-align: center;line-height: 100px;margin-bottom: 30px;}
+#wrap .page1 .part1_2 .content{width: 33.3%;float: left;height: 140px;position: relative;margin-top: 30px;}
+#wrap .page1 .part1_2 .content h2{color: #742bfe;width: 100%;float: left;font-size: 20px;line-height: 30px;text-align: center;}
+#wrap .page1 .part1_2 .content h2 img{width: 40px;margin: 0;}
+#wrap .page1 .part1_2 .content .btn{width: 80%;height: 60px;background: #732dff;color: #fff;position: absolute;
+bottom: 0;line-height: 60px;text-align: center;border-radius: 40px;left: 10%;font-weight: 600;}
+#wrap .page1 .part1_2 .content img{width: 70%;margin-left: 15%;margin-top: 50px;}
+#wrap .page1 .part1_2 .content .start{width: 70px;position: absolute;margin: 0;left: 45%;top:65%;}
+#wrap .page1 .part1_3{height: 280px;position: absolute;bottom: -300px;left: -50%;}
+#wrap .page1 .part1_3 img{height: 280px;left: 0%;float: left;}
+#wrap .page1 .part1_4{width: 100%;position: absolute;bottom: -500px;}
+#wrap .page1 .part1_4 img{width: 60%;float: left;margin-left: 20%;}
+
+#wrap .page2 .part2_0{position: absolute;top: -300px;height: 280px;}
+#wrap .page2 .part2_0 img{height: 280px;left: 0%;float: left;}
+#wrap .page2 .part2_1{width: 100%;position: absolute;left: 0%;top: 110px;opacity: 0;}
+#wrap .page2 .part2_1 h1{color: #ff2b6d;font-size: 40px;width: 100%;text-align: center;line-height: 70px;margin-bottom: 30px;}
+#wrap .page2 .part2_1 h2{width: 100%;text-align: center;line-height: 40px;color: #732dff;}
+#wrap .page2 .part2_2{position: absolute;width: 90%;top: 250px;height: 400px;left: 5%;opacity: 0;}
+#wrap .page2 .part2_3{position: absolute;width: 100%;bottom: -300px;}
+
+#wrap .page4 .part4_0{position: absolute;top: -300px;height: 280px;}
+#wrap .page4 .part4_0 img{height: 280px;left: 0%;float: left;}
+#wrap .page4 .part4_1{width: 100%;position: absolute;left: 0%;top: 110px;opacity: 0;}
+#wrap .page4 .part4_1 h1{color: #ff2b6d;font-size: 40px;width: 100%;text-align: center;line-height: 70px;margin-bottom: 30px;}
+#wrap .page4 .part4_1 h2{color: #fff;font-size: 24px;width: 100%;text-align: center;line-height: 70px;margin-bottom: 30px;font-weight: 400;}
+#wrap .page4 .part4_2{position: absolute;bottom: 90px;width: 100%;top: 400px;opacity: 0;}
+#wrap .page4 .part4_3{position: absolute;bottom: 90px;width: 100%;top: 400px;left: 50%;opacity: 0;}
+#wrap .page4 .part4_4{position: absolute;bottom: -500px;width: 100%}
+#wrap .page4 .part4_4 img{width: 200%;}
+#wrap .page4 .part4_5{position: absolute;bottom: -500px;width: 100%;left: -100%;}
+#wrap .page4 .part4_5 img{width: 200%;}
+#wrap .page4 .part4_6{position: absolute;bottom: -500px;width: 100%;height:100px;left: -100%;}
+#wrap .page4 .part4_6 img{width: 200%;}
+#wrap .page4 .part4_7{position: absolute;bottom: -500px;width: 100%;left: 90%;}
+
+
+
