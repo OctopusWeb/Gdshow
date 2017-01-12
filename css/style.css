@@ -41,6 +41,18 @@ bottom: 0;line-height: 60px;text-align: center;border-radius: 40px;left: 10%;fon
 #wrap .page2 .part2_2{position: absolute;width: 90%;top: 250px;height: 400px;left: 5%;opacity: 0;}
 #wrap .page2 .part2_3{position: absolute;width: 100%;bottom: -300px;}
 
+#wrap .page3 .part3_0{position: absolute;bottom: -300px;height: 280px;}
+#wrap .page3 .part3_0 img{height: 280px;left: 0%;float: left;}
+#wrap .page3 .part3_1{width: 100%;position: absolute;left: 0%;top: 50px;opacity: 0;}
+#wrap .page3 .part3_1 h1{color: #ff2b6d;font-size: 40px;width: 100%;text-align: center;line-height: 70px;margin-bottom: 30px;}
+#wrap .page3 .part3_1 h2{width: 100%;text-align: center;line-height: 40px;color: #732dff;}
+#wrap .page3 .part3_3{position: absolute;top: 250px;width: 40%;left: -50%;height: 530px;overflow: hidden;}
+#wrap .page3 .part3_3 img{width: 100%;}
+#wrap .page3 .part3_4{position: absolute;top: 250px;width: 40%;left: 100%;height: 530px;}
+#wrap .page3 .part3_4 img{width: 100%;float: left;margin-left: 0;}
+#wrap .page3 .part3_5{width: 100%;position: absolute;bottom: -130px;}
+#wrap .page3 .part3_5 img{width: 220px;}
+
 #wrap .page4 .part4_0{position: absolute;top: -300px;height: 280px;}
 #wrap .page4 .part4_0 img{height: 280px;left: 0%;float: left;}
 #wrap .page4 .part4_1{width: 100%;position: absolute;left: 0%;top: 110px;opacity: 0;}
@@ -56,5 +68,58 @@ bottom: 0;line-height: 60px;text-align: center;border-radius: 40px;left: 10%;fon
 #wrap .page4 .part4_6 img{width: 200%;}
 #wrap .page4 .part4_7{position: absolute;bottom: -500px;width: 100%;left: 90%;}
 
+#wrap .page5 .part5_0{position: absolute;top: -300px;height: 280px;}
+#wrap .page5 .part5_0 img{height: 280px;left: 0%;float: left;}
+#wrap .page5 .part5_3{height: 280px;position: absolute;bottom: -300px;left: -50%;}
+#wrap .page5 .part5_3 img{height: 280px;left: 0%;float: left;}
+#wrap .page5 .part5_1{width: 100%;position: absolute;left: -100%;top: 100px;}
+#wrap .page5 .part5_1 h1{color: #ff2b6d;font-size: 40px;width: 100%;text-align: center;line-height: 100px;margin-bottom: 30px;}
+#wrap .page5 .part5_2{position: absolute;height: 300px;width: 1750px;left: 5%;top: 200px;opacity: 0;}
+#wrap .page5 .part5_2 img{float: left;}
+#wrap .page5 .part5_2 .left{width: 419px;margin-left: 20px;}
+#wrap .page5 .part5_2 .center{width: 409px;margin-left: 150px;}
+#wrap .page5 .part5_2 .right{width: 509px;margin-left: 220px;margin-top: 50px;}
+#wrap .page5 .part5_4{width: 521px;position: absolute;top: 400px;left: 5%;opacity: 0;}
+#wrap .page5 .part5_4 img{width: 100%;}
+#wrap .page5 .part5_5{width: 600px;position: absolute;top: 400px;left:35%;opacity: 0;}
+#wrap .page5 .part5_5 img{width: 100%;}
+#wrap .page5 .part5_6{width: 551px;position: absolute;top: 400px;left:70%;opacity: 0;}
+#wrap .page5 .part5_6 img{width: 100%;}
 
+#wrap .page6 .part6_0{position: absolute;top: -300px;height: 280px;}
+#wrap .page6 .part6_0 img{height: 280px;left: 0%;float: left;}
+#wrap .page6 .part6_3{height: 280px;position: absolute;bottom: -300px;left: -50%;}
+#wrap .page6 .part6_3 img{height: 280px;left: 0%;float: left;}
+#wrap .page6 .part6_1{width: 100%;position: absolute;left: 0%;top: 110px;opacity: 0;}
+#wrap .page6 .part6_1 h1{color: #ff2b6d;font-size: 40px;width: 100%;text-align: center;line-height: 70px;margin-bottom: 30px;}
+#wrap .page6 .part6_1 h2{width: 100%;text-align: center;line-height: 40px;color: #732dff;}
+#wrap .page6 .part6_2{position: absolute;top: 300px;opacity: 0;}
+#wrap .page6 .part6_2 img{position: absolute;}
+#wrap .page6 .part6_2 .part6_21{left: 140px;top: 80px;}
+#wrap .page6 .part6_2 .part6_22{left: 430px;}
+#wrap .page6 .part6_2 .part6_23{left: 800px;top: 120px;}
+#wrap .page6 .part6_2 .part6_24{left: 1200px;top: 20px;}
+#wrap .page6 .part6_2 .part6_25{left: 1550px;top: 70px;}
+#wrap .page6 .part6_4{position: absolute;width: 100%;bottom: 50px;z-index: 100;left:120%;}
+#wrap .page6 .part6_4 img{float: left;margin-left: 100px;}
 
+#wrap .page7 .part7_0{position: absolute;top: -300px;height: 280px;}
+#wrap .page7 .part7_0 img{height: 280px;left: 0%;float: left;}
+#wrap .page7 .part7_3{height: 280px;position: absolute;bottom: -300px;left: -50%;}
+#wrap .page7 .part7_3 img{height: 280px;left: 0%;float: left;}
+#wrap .page7 .part7_11{width: 35%;position: absolute;top: 100px;}
+#wrap .page7 .part7_11 img{position: absolute;}
+#wrap .page7 .part7_11 h1{color: #ff2b6e;position: absolute;width: 100%;padding-left:100px;top: 0;font-size: 40px;}
+#wrap .page7 .part7_11 h2{color: #712dfc;width: 100%;float: left;font-size: 20px;font-weight: 400;line-height: 30px;}
+#wrap .page7 .part7_11 h2 strong{color: #ff2b6e;}
+#wrap .page7 .part7_11 .first{margin-top: 150px;}
+#wrap .page7 .part7_11 h3{color: #ff2b6e;position: absolute;width: 100%;padding-left:100px;top: 60px;}
+#wrap .page7 .part7_1{left: -50%;}
+#wrap .page7 .part7_2{left: 150%;}
+#wrap .page7 .part7_4{position: absolute;bottom: 0;left: -40%;}
+#wrap .page7 .part7_5{position: absolute;right: -700px;top: 70%;z-index: 100;}
+#wrap .page7 .part7_6{position: absolute;right: -800px;top: 70%;}
+
+.changeBtn{position: absolute;width: 100%;height: 100%;z-index: 1000;}
+.changeBtn .pre{width: 50%;position: absolute;height: 100%;}
+.changeBtn .next{width: 50%;position: absolute;height: 100%;left: 50%;}
